@@ -1,4 +1,4 @@
-<h1>💢 Hello everyone, welcome.❗</h1>
+<h1>💢 Hello everyone, Welcome.❗</h1>
 
 <p>✅I'm Ruan Vargas Venâncio, i'm studying Full Stack Developer and I'll be a programmer/developer. 🚧 </p> <br>
 
