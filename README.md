@@ -19,9 +19,9 @@
 
 <h3>📡Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/ruan-v-venancio97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin-LOGO>
-<a href="https://www.instagram.com/ruanvenancio97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram-LOGO>
-<a href="https://www.facebook.com/ruan.venancio.754/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-LOGO">
+<a href="https://www.linkedin.com/in/ruan-v-venancio97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin-LOGO>
+<a href="https://www.instagram.com/ruanvenancio97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram-LOGO>
+<a href="https://www.facebook.com/ruan.venancio.754/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-LOGO">
 <br><br>
 
 ![Ruan stats](https://github-readme-stats.vercel.app/api?username=RvvN24&show_icons=true&theme=merko) <br>
