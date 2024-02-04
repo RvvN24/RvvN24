@@ -1,6 +1,6 @@
 <h1 align ="center">❗Hello everyone, Welcome❗</h1> <br>
 
-<p>🔴I'm Ruan Vargas Venâncio, i'm studying Full Stack Developer at Dev Club and I'll be a programmer/developer.  </p> <br>
+<p>🔴I'm Ruan Vargas Venâncio, i'm studying Full Stack Developer at Dev Club and I'll be a programmer/developer.🔴  </p> <br>
 
 <h3>📚Studying at: <br></h3>
 <a href="https://rodolfomori.com.br/devclub/"><img src="https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/elementor/thumbs/LOGO_1-pl6s0w83bob17fyv2myc9hccfjkrd6md916y3lfbcg.png.webp"  width=40px alt="DevClubLOGO">
