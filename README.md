@@ -1,4 +1,4 @@
-<h1 align ="center">💢 Hello everyone, Welcome.</h1> <br>
+<h1 align ="center">💢 Hello everyone, Welcome❗</h1> <br>
 
 <p>✅I'm Ruan Vargas Venâncio, i'm studying Full Stack Developer at Dev Club and I'll be a programmer/developer. 🚧 </p> <br>
 <h4>Studying at: <br></h4>
